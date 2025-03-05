@@ -1,0 +1,6 @@
+homepage: "https://www.martijnvanvreeden.nl"
+documentation: "https://github.com/martijnvv/gtm_content_square_ecommerce"
+versions:
+  - sha: 88dfe40dd9a0b61912e3250d69ad9023f6b06f58
+    changeNotes: Initial release.
+
