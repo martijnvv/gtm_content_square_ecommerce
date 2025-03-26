@@ -1,6 +1,6 @@
-homepage: "https://www.martijnvanvreeden.nl"
+homepage: "https://martijnvanvreeden.nl"
 documentation: "https://github.com/martijnvv/gtm_content_square_ecommerce"
 versions:
   - sha: 0f58f4402e29641172e0ad8450aa615d2855974c
-    changeNotes: Initial release.
+    changeNotes: Initial release, with correct homepage
 
